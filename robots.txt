@@ -3,4 +3,4 @@ Allow: /
 Disallow: /impressum
 Disallow: /datenschutz
 
-Sitemap: https://abrechnung.jpcodelabs.com/sitemap.xml
+Sitemap: https://xn--smartgo-cxa.de/sitemap.xml

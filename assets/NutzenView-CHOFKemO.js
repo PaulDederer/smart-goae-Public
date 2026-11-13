@@ -1,0 +1,1 @@
+import{E as e,m as t,y as n}from"./vue-router-DeVLHg9x.js";import{d as r,r as i,t as a}from"./index-BNkjImZN.js";var o={__name:`NutzenView`,setup(o){return(o,s)=>(e(),t(`main`,null,[n(r,{"heading-tag":`h1`}),n(i),n(a)]))}};export{o as default};

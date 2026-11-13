@@ -1,0 +1,1 @@
+import{E as e,m as t,y as n}from"./vue-router-DeVLHg9x.js";import{n as r,t as i}from"./index-DtOA2qMG.js";var a={__name:`PilotView`,setup(a){return(a,o)=>(e(),t(`main`,null,[n(r,{"heading-tag":`h1`}),n(i)]))}};export{a as default};
